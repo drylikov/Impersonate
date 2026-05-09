@@ -46,4 +46,3 @@ Then all you need is:
 ```sh
 $ impersonate_myapp 'github|zzz'
 ```
-
