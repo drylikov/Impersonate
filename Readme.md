@@ -47,4 +47,3 @@ Then all you need is:
 $ impersonate_myapp 'github|zzz'
 ```
 
-
