@@ -1,4 +1,3 @@
-
 # Impersonate.
 
 [Auth0](https://auth0.com/) user impersonation utility for when you need to see
